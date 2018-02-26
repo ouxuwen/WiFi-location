@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\menu_times.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\menu\\times.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_data_lv.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\layout\\data_lv.xml"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_room_layout.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\layout\\room_layout.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_find_dialog.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\layout\\find_dialog.xml"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\menu_times.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\menu\\times.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wi_col_.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\layout\\activity_wi_col_.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\menu_wi_col_.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\menu\\wi_col_.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\menu_wi_col_.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\menu\\wi_col_.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_view.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\layout\\item_view.xml"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_save_dialog.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\layout\\save_dialog.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_room_layout.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\layout\\room_layout.xml"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_view.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\layout\\item_view.xml"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_data_lv.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\layout\\data_lv.xml"
+    },
+    {
+        "merged": "D:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_save_dialog.xml.flat",
+        "source": "D:\\WiCollect1\\app\\src\\main\\res\\layout\\save_dialog.xml"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wi_col_.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\layout\\activity_wi_col_.xml"
+    },
+    {
+        "merged": "G:\\WiCollect1\\app\\build\\intermediates\\res\\merged\\debug\\layout_find_dialog.xml.flat",
+        "source": "G:\\WiCollect1\\app\\src\\main\\res\\layout\\find_dialog.xml"
+    }
+]

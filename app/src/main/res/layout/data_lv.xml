@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" 
+    android:padding="5dip">
+
+    <TextView
+        android:id="@+id/idtv"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/x_tv"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/y_tv"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/mac_tv"
+        android:layout_width="160dp"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/rss_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="wheat">#F5DEB3</drawable> 
+    <drawable name="skyblue">#87CEEB</drawable> 
+    <drawable name="slategrey">#708090</drawable> 
+    <drawable name="crimson">#DC143C</drawable>
+</resources>

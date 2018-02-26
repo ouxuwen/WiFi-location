@@ -1,0 +1,191 @@
+ <TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	tools:context=".WiCol_Activity" 
+	android:id="@+id/tabhost">
+	<LinearLayout
+	    android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:orientation="vertical"
+		android:background="@drawable/wheat"
+		>
+	    <TabWidget
+	        android:id="@android:id/tabs"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/skyblue"
+	        />
+	    <FrameLayout
+	        android:id="@android:id/tabcontent"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content">
+	        
+	        <LinearLayout
+	            android:layout_width="fill_parent"
+    			android:layout_height="fill_parent"
+    			android:orientation="vertical"
+    			android:id="@+id/DATA">
+    			
+	        	<LinearLayout
+        			android:layout_width="match_parent"
+        			android:layout_height="wrap_content" 
+        			android:orientation="horizontal">
+
+        		<TextView
+           			android:id="@+id/xtv1"
+           			android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:text="  X  " 
+            		android:typeface="serif"
+            		android:textColor="@color/chocolate"
+            		android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        		<EditText
+            		android:id="@+id/xet1"
+            		android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:layout_weight="1"
+            		android:ems="10"
+            		android:textColor="@color/chocolate"
+            		android:inputType="number" >
+
+            		<requestFocus />
+        		</EditText>
+        
+       			<TextView
+        			android:id="@+id/xtv2"
+         	   		android:layout_width="wrap_content"
+         	   		android:layout_height="wrap_content"
+         	   		android:text="  Y  " 
+         	   		android:typeface="serif"
+         	   		android:textColor="@color/chocolate"
+            		android:textAppearance="?android:attr/textAppearanceMedium" /> 
+            
+        		<EditText
+            		android:id="@+id/yet1"
+            		android:layout_width="wrap_content"
+            		android:layout_height="wrap_content"
+            		android:layout_weight="1"
+            		android:ems="10"
+            		android:textColor="@color/chocolate"
+            		android:inputType="number" >
+
+            		<requestFocus />
+        		</EditText>
+        		
+        		<TextView
+        		    android:id="@+id/grouptv1"
+        		    android:layout_width="wrap_content"
+        		    android:layout_height="wrap_content"
+        		    android:text=" Times:5  "
+        		    android:typeface="serif"
+        		    android:textColor="@color/purple"
+        		    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+	        	</LinearLayout>
+	        	
+	        	<Button 
+	        	    android:id="@+id/colbtn"
+	        	    android:layout_width="fill_parent"
+	        	    android:layout_height="wrap_content"
+	        	    android:text="COLLECT DATA"
+	        	    android:typeface="serif"
+	        	    android:background="@drawable/slategrey"
+	        	    android:textColor="@color/ivory"
+	        	    />
+	        	
+	        	<ListView
+     				android:id="@+id/datalv"
+        			android:layout_width="fill_parent"
+        			android:layout_height="fill_parent" >
+    			</ListView>
+    		
+	        </LinearLayout>
+	        
+	        <LinearLayout
+	            android:id="@+id/Wifi_FingerPrint"
+	            android:layout_width="match_parent"
+	            android:layout_height="fill_parent"
+	            android:orientation="vertical" >
+	         
+	            <Button 
+	        	    android:id="@+id/buildbtn"
+	        	    android:layout_width="fill_parent"
+	        	    android:layout_height="wrap_content"
+	        	    android:text="BUILD"
+	        	    android:typeface="serif"
+	        	    android:background="@drawable/crimson"
+	        	    android:textColor="@color/lightyellow"
+	        	    />
+			<LinearLayout
+				android:layout_width="fill_parent"
+				android:layout_height="fill_parent"
+				android:orientation="vertical"
+				android:id="@+id/ROOM">
+				<TextView
+					android:id="@+id/xtv3"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="  Line "
+					android:typeface="serif"
+					android:textColor="@color/chocolate"
+					android:textAppearance="?android:attr/textAppearanceMedium" />
+
+				<EditText
+					android:id="@+id/line"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:ems="10"
+					android:textColor="@color/chocolate"
+					android:inputType="number" >
+
+					<requestFocus />
+				</EditText>
+
+				<TextView
+					android:id="@+id/ytv3"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="Column"
+					android:typeface="serif"
+					android:textColor="@color/chocolate"
+					android:textAppearance="?android:attr/textAppearanceMedium" />
+
+				<EditText
+					android:id="@+id/column"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:layout_weight="1"
+					android:ems="10"
+					android:textColor="@color/chocolate"
+					android:inputType="number" >
+
+					<requestFocus />
+				</EditText>
+			</LinearLayout>
+				<Button
+					android:id="@+id/generatebtn"
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:layout_marginTop="10dp"
+					android:text="GENERATE ROOM"
+					android:typeface="serif"
+					android:background="@drawable/crimson"
+					android:textColor="@color/lightyellow"
+					/>
+
+	            
+	            <ListView
+     				android:id="@+id/fingerprintlv"
+        			android:layout_width="fill_parent"
+        			android:layout_height="fill_parent" >
+    			</ListView>
+	            
+	        </LinearLayout>
+	        
+	    </FrameLayout>
+	</LinearLayout>
+
+</TabHost>

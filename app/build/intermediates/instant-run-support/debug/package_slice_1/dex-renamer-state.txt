@@ -1,0 +1,4 @@
+#Sun Feb 25 20:43:01 CST 2018
+base.0=G\:\\WiCollect1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
+renamed.0=classes.dex
+file.0=G\:\\WiCollect1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2\\classes.dex

@@ -1,0 +1,154 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\WiCollect1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "G:\\WiCollect1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "16,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "716,1007",
+                        "endLines": "22,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "1002,1162"
+                    }
+                },
+                {
+                    "source": "G:\\WiCollect1\\app\\src\\main\\res\\values\\drawable.xml",
+                    "from": {
+                        "startLines": "5,3,4,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "207,105,155,57",
+                        "endColumns": "47,47,49,45",
+                        "endOffsets": "250,148,200,98"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "477,525,573,623",
+                        "endColumns": "47,47,49,45",
+                        "endOffsets": "520,568,618,664"
+                    }
+                },
+                {
+                    "source": "G:\\WiCollect1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "363,421",
+                        "endColumns": "57,55",
+                        "endOffsets": "416,472"
+                    }
+                },
+                {
+                    "source": "G:\\WiCollect1\\app\\src\\main\\res\\values\\string.xml",
+                    "from": {
+                        "startLines": "9,4,10,7,8,6,5,2",
+                        "startColumns": "1,1,1,1,1,1,1,1",
+                        "startOffsets": "311,102,354,227,265,183,144,54",
+                        "endColumns": "41,40,40,36,44,42,37,43",
+                        "endOffsets": "351,141,393,262,308,224,180,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,144,188,228,276,322,669",
+                        "endColumns": "44,43,43,39,47,45,40,46",
+                        "endOffsets": "95,139,183,223,271,317,358,711"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\WiCollect1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\WiCollect1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "363,421",
+                        "endColumns": "57,55",
+                        "endOffsets": "416,472"
+                    }
+                },
+                {
+                    "source": "D:\\WiCollect1\\app\\src\\main\\res\\values\\string.xml",
+                    "from": {
+                        "startLines": "9,4,10,7,8,6,5,2",
+                        "startColumns": "1,1,1,1,1,1,1,1",
+                        "startOffsets": "311,102,354,227,265,183,144,54",
+                        "endColumns": "41,40,40,36,44,42,37,43",
+                        "endOffsets": "351,141,393,262,308,224,180,96"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,15",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,144,188,228,276,322,669",
+                        "endColumns": "44,43,43,39,47,45,40,46",
+                        "endOffsets": "95,139,183,223,271,317,358,711"
+                    }
+                },
+                {
+                    "source": "D:\\WiCollect1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "16,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "716,1007",
+                        "endLines": "22,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "1002,1162"
+                    }
+                },
+                {
+                    "source": "D:\\WiCollect1\\app\\src\\main\\res\\values\\drawable.xml",
+                    "from": {
+                        "startLines": "5,3,4,2",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "207,105,155,57",
+                        "endColumns": "47,47,49,45",
+                        "endOffsets": "250,148,200,98"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "477,525,573,623",
+                        "endColumns": "47,47,49,45",
+                        "endOffsets": "520,568,618,664"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/Find_item"
+        android:title=" FIND "
+        android:textColor="@color/lavenderblush"/>
+    
+    <item
+        android:id="@+id/Save_item"
+        android:title=" SAVE "
+        android:textColor="@color/blueviolet"/>
+    
+    <item
+        android:id="@+id/Delete_item"
+        android:title=" DELETE "
+        android:textColor="@color/firebrick"/>
+
+</menu>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">WiCollect</string>
+	
+	<color name="chocolate">#D2691E</color>
+	<color name="purple">#800080</color>
+	<color name="lightyellow">#FFFFE0</color>
+	<color name="ivory">#FFFFF0</color>
+	<color name="lavenderblush">#FFF0F5</color>
+	<color name="blueviolet">#8A2BE2</color>
+	<color name="firebrick">#B22222</color>
+
+</resources>

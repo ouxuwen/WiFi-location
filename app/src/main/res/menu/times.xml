@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/Five_item"
+        android:title="  5  "
+        android:textColor="@color/purple"/>
+    
+    <item
+        android:id="@+id/Twenty_item"
+        android:title="  20  "
+        android:textColor="@color/purple"/>
+    
+    <item
+        android:id="@+id/Fifty_item"
+        android:title="  50  "
+        android:textColor="@color/purple"/>
+    
+    <item
+        android:id="@+id/Hundred_item"
+        android:title="  100  "
+        android:textColor="@color/purple"/>
+
+</menu>
