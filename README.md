@@ -1,6 +1,7 @@
 # WiFi-location
 
 1、Imagine a room is a grid map with a coordinate.
+
 2、Enter the number of "x" and  "y" and Collect the WiFi RSS for each grid.
 
 3、Build a wifi_fingerprint for the grid map.
